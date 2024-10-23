@@ -1,0 +1,16 @@
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\PieChart\PieChart\bin\Debug\net8.0-windows\PieChart.exe
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\PieChart\PieChart\bin\Debug\net8.0-windows\PieChart.deps.json
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\PieChart\PieChart\bin\Debug\net8.0-windows\PieChart.runtimeconfig.json
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\PieChart\PieChart\bin\Debug\net8.0-windows\PieChart.dll
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\PieChart\PieChart\bin\Debug\net8.0-windows\PieChart.pdb
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\PieChart\PieChart\obj\Debug\net8.0-windows\PieChart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\PieChart\PieChart\obj\Debug\net8.0-windows\PieChart.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\PieChart\PieChart\obj\Debug\net8.0-windows\PieChart.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\PieChart\PieChart\obj\Debug\net8.0-windows\PieChart.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\PieChart\PieChart\obj\Debug\net8.0-windows\PieChart.dll
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\PieChart\PieChart\obj\Debug\net8.0-windows\refint\PieChart.dll
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\PieChart\PieChart\obj\Debug\net8.0-windows\PieChart.pdb
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\PieChart\PieChart\obj\Debug\net8.0-windows\PieChart.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\PieChart\PieChart\obj\Debug\net8.0-windows\ref\PieChart.dll
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\PieChart\PieChart\obj\Debug\net8.0-windows\PieChart.Form1.resources
+C:\Users\leona\OneDrive\Aral - Canada\BVC\Fall 2024\1 - Rapid Application Development_SODV2101_24SEPMNOS4\Samples\PieChart\PieChart\obj\Debug\net8.0-windows\PieChart.csproj.GenerateResource.cache
